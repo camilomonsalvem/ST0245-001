@@ -2,4 +2,5 @@ Para ejecutar el codigo se debe de ingresar la siguiente linea en una terminal:
 
 python proyecto.py r 0.5 imagenCreada.jpg imagenCarver.jpg <Link del raw>
 
-Donde "imagenCreada.jpg" sera la primer imagen que se genera a partir del raw ingresado por el usuario e "imagenCarver.jpg" es la misma imagen luego de aplicarsele el algoritmo de compresion.
+Donde "imagenCreada.jpg" sera la primer imagen que se genera a partir del raw ingresado por el usuario e "imagenCarver.jpg"
+es la misma imagen luego de aplicarse el algoritmo de compresion.
