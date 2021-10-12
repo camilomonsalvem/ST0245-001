@@ -1,6 +1,9 @@
 Para ejecutar el codigo se debe de ingresar la siguiente linea en una terminal:
 
-python proyecto.py r 0.5 imagenCreada.jpg imagenCarver.jpg <Link del raw>
+python proyecto.py r 0.5 imagenCreada.jpg imagenCarver.jpg "Aqui se ingresa el link del raw ( sin las comillas )"
+
+Ejemplo:
+python proyecto.py r 0.5 imagenCreada.jpg imagenCarver.jpg https://raw.githubusercontent.com/mauriciotoro/ST0245-Eafit/master/proyecto/datasets/csv/enfermo_csv/00000004_66324407_ver1.csv
 
 Donde "imagenCreada.jpg" sera la primer imagen que se genera a partir del raw ingresado por el usuario e "imagenCarver.jpg"
 es la misma imagen luego de aplicarse el algoritmo de compresion.
