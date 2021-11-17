@@ -7,3 +7,6 @@ python proyecto.py r 0.5 imagenCreada.jpg imagenCarver.jpg https://raw.githubuse
 
 Donde "imagenCreada.jpg" sera la primer imagen que se genera a partir del raw ingresado por el usuario e "imagenCarver.jpg"
 es la misma imagen luego de aplicarse el algoritmo de compresion.
+
+Para probar el algoritmo de huffman se debera pasar el nombre del archivo el cual es imagenCreada.jpg
+
